@@ -1,0 +1,16 @@
+.About-me{
+    text-align: center;
+    position: relative;
+    top: 100px;
+   
+    
+}
+.body{
+    background-color: white;
+}
+.footer{
+    text-align: left;
+    position: relative;
+    top: 440px;
+    left: 10px;
+}
